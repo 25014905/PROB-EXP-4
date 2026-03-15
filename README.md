@@ -53,6 +53,8 @@ print("---------------------------------------------------------------")
 ```
 
 ## Output :
+![image](https://github.com/25014905/PROB-EXP-4/blob/main/WhatsApp%20Image%202026-03-15%20at%206.05.41%20PM.jpeg?raw=true)
 
 ## Result :
+hence given program is executed.
 
